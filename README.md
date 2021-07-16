@@ -15,9 +15,9 @@ It generates the *magic number* randomly and creates the hashed string according
     2. Copy the *magic number*.
     3. Type in the text to hash.
     4. Copy the Output.
-    >>**How to Decrypt**
-      1. Select "Decrypt".
-      2. Paste the *magic number*.
-      3. Paste the hashed text.
-      4. Get the un-hashed text.
+  >>**How to Decrypt**
+    1. Select "Decrypt".
+    2. Paste the *magic number*.
+    3. Paste the hashed text.
+    4. Get the un-hashed text.
       
